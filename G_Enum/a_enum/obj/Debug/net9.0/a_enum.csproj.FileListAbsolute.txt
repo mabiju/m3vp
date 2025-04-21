@@ -1,0 +1,15 @@
+D:\M3VP\G_Enum\a_enum\bin\Debug\net9.0\a_enum.exe
+D:\M3VP\G_Enum\a_enum\bin\Debug\net9.0\a_enum.deps.json
+D:\M3VP\G_Enum\a_enum\bin\Debug\net9.0\a_enum.runtimeconfig.json
+D:\M3VP\G_Enum\a_enum\bin\Debug\net9.0\a_enum.dll
+D:\M3VP\G_Enum\a_enum\bin\Debug\net9.0\a_enum.pdb
+D:\M3VP\G_Enum\a_enum\obj\Debug\net9.0\a_enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\M3VP\G_Enum\a_enum\obj\Debug\net9.0\a_enum.AssemblyInfoInputs.cache
+D:\M3VP\G_Enum\a_enum\obj\Debug\net9.0\a_enum.AssemblyInfo.cs
+D:\M3VP\G_Enum\a_enum\obj\Debug\net9.0\a_enum.csproj.CoreCompileInputs.cache
+D:\M3VP\G_Enum\a_enum\obj\Debug\net9.0\a_enum.sourcelink.json
+D:\M3VP\G_Enum\a_enum\obj\Debug\net9.0\a_enum.dll
+D:\M3VP\G_Enum\a_enum\obj\Debug\net9.0\refint\a_enum.dll
+D:\M3VP\G_Enum\a_enum\obj\Debug\net9.0\a_enum.pdb
+D:\M3VP\G_Enum\a_enum\obj\Debug\net9.0\a_enum.genruntimeconfig.cache
+D:\M3VP\G_Enum\a_enum\obj\Debug\net9.0\ref\a_enum.dll
