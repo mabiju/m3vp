@@ -1,0 +1,15 @@
+D:\M3VP\I_Strings\c_string_escape_character\obj\Debug\net9.0\c_string_escape_character.GeneratedMSBuildEditorConfig.editorconfig
+D:\M3VP\I_Strings\c_string_escape_character\obj\Debug\net9.0\c_string_escape_character.AssemblyInfoInputs.cache
+D:\M3VP\I_Strings\c_string_escape_character\obj\Debug\net9.0\c_string_escape_character.AssemblyInfo.cs
+D:\M3VP\I_Strings\c_string_escape_character\obj\Debug\net9.0\c_string_escape_character.csproj.CoreCompileInputs.cache
+D:\M3VP\I_Strings\c_string_escape_character\obj\Debug\net9.0\c_string_escape_character.sourcelink.json
+D:\M3VP\I_Strings\c_string_escape_character\bin\Debug\net9.0\c_string_escape_character.exe
+D:\M3VP\I_Strings\c_string_escape_character\bin\Debug\net9.0\c_string_escape_character.deps.json
+D:\M3VP\I_Strings\c_string_escape_character\bin\Debug\net9.0\c_string_escape_character.runtimeconfig.json
+D:\M3VP\I_Strings\c_string_escape_character\bin\Debug\net9.0\c_string_escape_character.dll
+D:\M3VP\I_Strings\c_string_escape_character\bin\Debug\net9.0\c_string_escape_character.pdb
+D:\M3VP\I_Strings\c_string_escape_character\obj\Debug\net9.0\c_string_escape_character.dll
+D:\M3VP\I_Strings\c_string_escape_character\obj\Debug\net9.0\refint\c_string_escape_character.dll
+D:\M3VP\I_Strings\c_string_escape_character\obj\Debug\net9.0\c_string_escape_character.pdb
+D:\M3VP\I_Strings\c_string_escape_character\obj\Debug\net9.0\c_string_escape_character.genruntimeconfig.cache
+D:\M3VP\I_Strings\c_string_escape_character\obj\Debug\net9.0\ref\c_string_escape_character.dll

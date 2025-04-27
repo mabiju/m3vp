@@ -1,0 +1,15 @@
+D:\M3VP\I_Strings\a_string_char\bin\Debug\net9.0\a_string_char.exe
+D:\M3VP\I_Strings\a_string_char\bin\Debug\net9.0\a_string_char.deps.json
+D:\M3VP\I_Strings\a_string_char\bin\Debug\net9.0\a_string_char.runtimeconfig.json
+D:\M3VP\I_Strings\a_string_char\bin\Debug\net9.0\a_string_char.dll
+D:\M3VP\I_Strings\a_string_char\bin\Debug\net9.0\a_string_char.pdb
+D:\M3VP\I_Strings\a_string_char\obj\Debug\net9.0\a_string_char.GeneratedMSBuildEditorConfig.editorconfig
+D:\M3VP\I_Strings\a_string_char\obj\Debug\net9.0\a_string_char.AssemblyInfoInputs.cache
+D:\M3VP\I_Strings\a_string_char\obj\Debug\net9.0\a_string_char.AssemblyInfo.cs
+D:\M3VP\I_Strings\a_string_char\obj\Debug\net9.0\a_string_char.csproj.CoreCompileInputs.cache
+D:\M3VP\I_Strings\a_string_char\obj\Debug\net9.0\a_string_char.sourcelink.json
+D:\M3VP\I_Strings\a_string_char\obj\Debug\net9.0\a_string_char.dll
+D:\M3VP\I_Strings\a_string_char\obj\Debug\net9.0\refint\a_string_char.dll
+D:\M3VP\I_Strings\a_string_char\obj\Debug\net9.0\a_string_char.pdb
+D:\M3VP\I_Strings\a_string_char\obj\Debug\net9.0\a_string_char.genruntimeconfig.cache
+D:\M3VP\I_Strings\a_string_char\obj\Debug\net9.0\ref\a_string_char.dll

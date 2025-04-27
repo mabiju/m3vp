@@ -1,0 +1,15 @@
+D:\M3VP\I_Strings\d_string_interpolation\bin\Debug\net9.0\d_string_interpolation.exe
+D:\M3VP\I_Strings\d_string_interpolation\bin\Debug\net9.0\d_string_interpolation.deps.json
+D:\M3VP\I_Strings\d_string_interpolation\bin\Debug\net9.0\d_string_interpolation.runtimeconfig.json
+D:\M3VP\I_Strings\d_string_interpolation\bin\Debug\net9.0\d_string_interpolation.dll
+D:\M3VP\I_Strings\d_string_interpolation\bin\Debug\net9.0\d_string_interpolation.pdb
+D:\M3VP\I_Strings\d_string_interpolation\obj\Debug\net9.0\d_string_interpolation.GeneratedMSBuildEditorConfig.editorconfig
+D:\M3VP\I_Strings\d_string_interpolation\obj\Debug\net9.0\d_string_interpolation.AssemblyInfoInputs.cache
+D:\M3VP\I_Strings\d_string_interpolation\obj\Debug\net9.0\d_string_interpolation.AssemblyInfo.cs
+D:\M3VP\I_Strings\d_string_interpolation\obj\Debug\net9.0\d_string_interpolation.csproj.CoreCompileInputs.cache
+D:\M3VP\I_Strings\d_string_interpolation\obj\Debug\net9.0\d_string_interpolation.sourcelink.json
+D:\M3VP\I_Strings\d_string_interpolation\obj\Debug\net9.0\d_string_interpolation.dll
+D:\M3VP\I_Strings\d_string_interpolation\obj\Debug\net9.0\refint\d_string_interpolation.dll
+D:\M3VP\I_Strings\d_string_interpolation\obj\Debug\net9.0\d_string_interpolation.pdb
+D:\M3VP\I_Strings\d_string_interpolation\obj\Debug\net9.0\d_string_interpolation.genruntimeconfig.cache
+D:\M3VP\I_Strings\d_string_interpolation\obj\Debug\net9.0\ref\d_string_interpolation.dll
