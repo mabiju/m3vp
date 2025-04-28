@@ -1,0 +1,15 @@
+D:\M3VP\I_Strings\i_string_uppercase\bin\Debug\net9.0\i_string_uppercase.exe
+D:\M3VP\I_Strings\i_string_uppercase\bin\Debug\net9.0\i_string_uppercase.deps.json
+D:\M3VP\I_Strings\i_string_uppercase\bin\Debug\net9.0\i_string_uppercase.runtimeconfig.json
+D:\M3VP\I_Strings\i_string_uppercase\bin\Debug\net9.0\i_string_uppercase.dll
+D:\M3VP\I_Strings\i_string_uppercase\bin\Debug\net9.0\i_string_uppercase.pdb
+D:\M3VP\I_Strings\i_string_uppercase\obj\Debug\net9.0\i_string_uppercase.GeneratedMSBuildEditorConfig.editorconfig
+D:\M3VP\I_Strings\i_string_uppercase\obj\Debug\net9.0\i_string_uppercase.AssemblyInfoInputs.cache
+D:\M3VP\I_Strings\i_string_uppercase\obj\Debug\net9.0\i_string_uppercase.AssemblyInfo.cs
+D:\M3VP\I_Strings\i_string_uppercase\obj\Debug\net9.0\i_string_uppercase.csproj.CoreCompileInputs.cache
+D:\M3VP\I_Strings\i_string_uppercase\obj\Debug\net9.0\i_string_uppercase.sourcelink.json
+D:\M3VP\I_Strings\i_string_uppercase\obj\Debug\net9.0\i_string_uppercase.dll
+D:\M3VP\I_Strings\i_string_uppercase\obj\Debug\net9.0\refint\i_string_uppercase.dll
+D:\M3VP\I_Strings\i_string_uppercase\obj\Debug\net9.0\i_string_uppercase.pdb
+D:\M3VP\I_Strings\i_string_uppercase\obj\Debug\net9.0\i_string_uppercase.genruntimeconfig.cache
+D:\M3VP\I_Strings\i_string_uppercase\obj\Debug\net9.0\ref\i_string_uppercase.dll

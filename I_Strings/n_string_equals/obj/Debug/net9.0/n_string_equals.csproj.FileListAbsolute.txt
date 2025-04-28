@@ -1,0 +1,15 @@
+D:\M3VP\I_Strings\n_string_equals\bin\Debug\net9.0\n_string_equals.exe
+D:\M3VP\I_Strings\n_string_equals\bin\Debug\net9.0\n_string_equals.deps.json
+D:\M3VP\I_Strings\n_string_equals\bin\Debug\net9.0\n_string_equals.runtimeconfig.json
+D:\M3VP\I_Strings\n_string_equals\bin\Debug\net9.0\n_string_equals.dll
+D:\M3VP\I_Strings\n_string_equals\bin\Debug\net9.0\n_string_equals.pdb
+D:\M3VP\I_Strings\n_string_equals\obj\Debug\net9.0\n_string_equals.GeneratedMSBuildEditorConfig.editorconfig
+D:\M3VP\I_Strings\n_string_equals\obj\Debug\net9.0\n_string_equals.AssemblyInfoInputs.cache
+D:\M3VP\I_Strings\n_string_equals\obj\Debug\net9.0\n_string_equals.AssemblyInfo.cs
+D:\M3VP\I_Strings\n_string_equals\obj\Debug\net9.0\n_string_equals.csproj.CoreCompileInputs.cache
+D:\M3VP\I_Strings\n_string_equals\obj\Debug\net9.0\n_string_equals.sourcelink.json
+D:\M3VP\I_Strings\n_string_equals\obj\Debug\net9.0\n_string_equals.dll
+D:\M3VP\I_Strings\n_string_equals\obj\Debug\net9.0\refint\n_string_equals.dll
+D:\M3VP\I_Strings\n_string_equals\obj\Debug\net9.0\n_string_equals.pdb
+D:\M3VP\I_Strings\n_string_equals\obj\Debug\net9.0\n_string_equals.genruntimeconfig.cache
+D:\M3VP\I_Strings\n_string_equals\obj\Debug\net9.0\ref\n_string_equals.dll

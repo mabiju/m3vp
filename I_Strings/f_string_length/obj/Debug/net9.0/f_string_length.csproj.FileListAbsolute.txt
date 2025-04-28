@@ -1,0 +1,15 @@
+D:\M3VP\I_Strings\f_string_length\bin\Debug\net9.0\f_string_length.exe
+D:\M3VP\I_Strings\f_string_length\bin\Debug\net9.0\f_string_length.deps.json
+D:\M3VP\I_Strings\f_string_length\bin\Debug\net9.0\f_string_length.runtimeconfig.json
+D:\M3VP\I_Strings\f_string_length\bin\Debug\net9.0\f_string_length.dll
+D:\M3VP\I_Strings\f_string_length\bin\Debug\net9.0\f_string_length.pdb
+D:\M3VP\I_Strings\f_string_length\obj\Debug\net9.0\f_string_length.GeneratedMSBuildEditorConfig.editorconfig
+D:\M3VP\I_Strings\f_string_length\obj\Debug\net9.0\f_string_length.AssemblyInfoInputs.cache
+D:\M3VP\I_Strings\f_string_length\obj\Debug\net9.0\f_string_length.AssemblyInfo.cs
+D:\M3VP\I_Strings\f_string_length\obj\Debug\net9.0\f_string_length.csproj.CoreCompileInputs.cache
+D:\M3VP\I_Strings\f_string_length\obj\Debug\net9.0\f_string_length.sourcelink.json
+D:\M3VP\I_Strings\f_string_length\obj\Debug\net9.0\f_string_length.dll
+D:\M3VP\I_Strings\f_string_length\obj\Debug\net9.0\refint\f_string_length.dll
+D:\M3VP\I_Strings\f_string_length\obj\Debug\net9.0\f_string_length.pdb
+D:\M3VP\I_Strings\f_string_length\obj\Debug\net9.0\f_string_length.genruntimeconfig.cache
+D:\M3VP\I_Strings\f_string_length\obj\Debug\net9.0\ref\f_string_length.dll

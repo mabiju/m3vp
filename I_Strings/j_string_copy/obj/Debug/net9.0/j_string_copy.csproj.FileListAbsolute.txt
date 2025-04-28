@@ -1,0 +1,15 @@
+D:\M3VP\I_Strings\j_string_copy\bin\Debug\net9.0\j_string_copy.exe
+D:\M3VP\I_Strings\j_string_copy\bin\Debug\net9.0\j_string_copy.deps.json
+D:\M3VP\I_Strings\j_string_copy\bin\Debug\net9.0\j_string_copy.runtimeconfig.json
+D:\M3VP\I_Strings\j_string_copy\bin\Debug\net9.0\j_string_copy.dll
+D:\M3VP\I_Strings\j_string_copy\bin\Debug\net9.0\j_string_copy.pdb
+D:\M3VP\I_Strings\j_string_copy\obj\Debug\net9.0\j_string_copy.GeneratedMSBuildEditorConfig.editorconfig
+D:\M3VP\I_Strings\j_string_copy\obj\Debug\net9.0\j_string_copy.AssemblyInfoInputs.cache
+D:\M3VP\I_Strings\j_string_copy\obj\Debug\net9.0\j_string_copy.AssemblyInfo.cs
+D:\M3VP\I_Strings\j_string_copy\obj\Debug\net9.0\j_string_copy.csproj.CoreCompileInputs.cache
+D:\M3VP\I_Strings\j_string_copy\obj\Debug\net9.0\j_string_copy.sourcelink.json
+D:\M3VP\I_Strings\j_string_copy\obj\Debug\net9.0\j_string_copy.dll
+D:\M3VP\I_Strings\j_string_copy\obj\Debug\net9.0\refint\j_string_copy.dll
+D:\M3VP\I_Strings\j_string_copy\obj\Debug\net9.0\j_string_copy.pdb
+D:\M3VP\I_Strings\j_string_copy\obj\Debug\net9.0\j_string_copy.genruntimeconfig.cache
+D:\M3VP\I_Strings\j_string_copy\obj\Debug\net9.0\ref\j_string_copy.dll

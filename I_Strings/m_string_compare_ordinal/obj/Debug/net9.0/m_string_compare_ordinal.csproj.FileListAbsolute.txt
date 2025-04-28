@@ -1,0 +1,15 @@
+D:\M3VP\I_Strings\m_string_compare_ordinal\bin\Debug\net9.0\m_string_compare_ordinal.exe
+D:\M3VP\I_Strings\m_string_compare_ordinal\bin\Debug\net9.0\m_string_compare_ordinal.deps.json
+D:\M3VP\I_Strings\m_string_compare_ordinal\bin\Debug\net9.0\m_string_compare_ordinal.runtimeconfig.json
+D:\M3VP\I_Strings\m_string_compare_ordinal\bin\Debug\net9.0\m_string_compare_ordinal.dll
+D:\M3VP\I_Strings\m_string_compare_ordinal\bin\Debug\net9.0\m_string_compare_ordinal.pdb
+D:\M3VP\I_Strings\m_string_compare_ordinal\obj\Debug\net9.0\m_string_compare_ordinal.GeneratedMSBuildEditorConfig.editorconfig
+D:\M3VP\I_Strings\m_string_compare_ordinal\obj\Debug\net9.0\m_string_compare_ordinal.AssemblyInfoInputs.cache
+D:\M3VP\I_Strings\m_string_compare_ordinal\obj\Debug\net9.0\m_string_compare_ordinal.AssemblyInfo.cs
+D:\M3VP\I_Strings\m_string_compare_ordinal\obj\Debug\net9.0\m_string_compare_ordinal.csproj.CoreCompileInputs.cache
+D:\M3VP\I_Strings\m_string_compare_ordinal\obj\Debug\net9.0\m_string_compare_ordinal.sourcelink.json
+D:\M3VP\I_Strings\m_string_compare_ordinal\obj\Debug\net9.0\m_string_compare_ordinal.dll
+D:\M3VP\I_Strings\m_string_compare_ordinal\obj\Debug\net9.0\refint\m_string_compare_ordinal.dll
+D:\M3VP\I_Strings\m_string_compare_ordinal\obj\Debug\net9.0\m_string_compare_ordinal.pdb
+D:\M3VP\I_Strings\m_string_compare_ordinal\obj\Debug\net9.0\m_string_compare_ordinal.genruntimeconfig.cache
+D:\M3VP\I_Strings\m_string_compare_ordinal\obj\Debug\net9.0\ref\m_string_compare_ordinal.dll

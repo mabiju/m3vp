@@ -1,0 +1,15 @@
+D:\M3VP\I_Strings\e_string_name_address\bin\Debug\net9.0\e_string_name_address.exe
+D:\M3VP\I_Strings\e_string_name_address\bin\Debug\net9.0\e_string_name_address.deps.json
+D:\M3VP\I_Strings\e_string_name_address\bin\Debug\net9.0\e_string_name_address.runtimeconfig.json
+D:\M3VP\I_Strings\e_string_name_address\bin\Debug\net9.0\e_string_name_address.dll
+D:\M3VP\I_Strings\e_string_name_address\bin\Debug\net9.0\e_string_name_address.pdb
+D:\M3VP\I_Strings\e_string_name_address\obj\Debug\net9.0\e_string_name_address.GeneratedMSBuildEditorConfig.editorconfig
+D:\M3VP\I_Strings\e_string_name_address\obj\Debug\net9.0\e_string_name_address.AssemblyInfoInputs.cache
+D:\M3VP\I_Strings\e_string_name_address\obj\Debug\net9.0\e_string_name_address.AssemblyInfo.cs
+D:\M3VP\I_Strings\e_string_name_address\obj\Debug\net9.0\e_string_name_address.csproj.CoreCompileInputs.cache
+D:\M3VP\I_Strings\e_string_name_address\obj\Debug\net9.0\e_string_name_address.sourcelink.json
+D:\M3VP\I_Strings\e_string_name_address\obj\Debug\net9.0\e_string_name_address.dll
+D:\M3VP\I_Strings\e_string_name_address\obj\Debug\net9.0\refint\e_string_name_address.dll
+D:\M3VP\I_Strings\e_string_name_address\obj\Debug\net9.0\e_string_name_address.pdb
+D:\M3VP\I_Strings\e_string_name_address\obj\Debug\net9.0\e_string_name_address.genruntimeconfig.cache
+D:\M3VP\I_Strings\e_string_name_address\obj\Debug\net9.0\ref\e_string_name_address.dll

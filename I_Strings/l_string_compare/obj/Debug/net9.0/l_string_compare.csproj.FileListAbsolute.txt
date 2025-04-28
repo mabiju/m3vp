@@ -1,0 +1,15 @@
+D:\M3VP\I_Strings\l_string_compare\bin\Debug\net9.0\l_string_compare.exe
+D:\M3VP\I_Strings\l_string_compare\bin\Debug\net9.0\l_string_compare.deps.json
+D:\M3VP\I_Strings\l_string_compare\bin\Debug\net9.0\l_string_compare.runtimeconfig.json
+D:\M3VP\I_Strings\l_string_compare\bin\Debug\net9.0\l_string_compare.dll
+D:\M3VP\I_Strings\l_string_compare\bin\Debug\net9.0\l_string_compare.pdb
+D:\M3VP\I_Strings\l_string_compare\obj\Debug\net9.0\l_string_compare.GeneratedMSBuildEditorConfig.editorconfig
+D:\M3VP\I_Strings\l_string_compare\obj\Debug\net9.0\l_string_compare.AssemblyInfoInputs.cache
+D:\M3VP\I_Strings\l_string_compare\obj\Debug\net9.0\l_string_compare.AssemblyInfo.cs
+D:\M3VP\I_Strings\l_string_compare\obj\Debug\net9.0\l_string_compare.csproj.CoreCompileInputs.cache
+D:\M3VP\I_Strings\l_string_compare\obj\Debug\net9.0\l_string_compare.sourcelink.json
+D:\M3VP\I_Strings\l_string_compare\obj\Debug\net9.0\l_string_compare.dll
+D:\M3VP\I_Strings\l_string_compare\obj\Debug\net9.0\refint\l_string_compare.dll
+D:\M3VP\I_Strings\l_string_compare\obj\Debug\net9.0\l_string_compare.pdb
+D:\M3VP\I_Strings\l_string_compare\obj\Debug\net9.0\l_string_compare.genruntimeconfig.cache
+D:\M3VP\I_Strings\l_string_compare\obj\Debug\net9.0\ref\l_string_compare.dll
