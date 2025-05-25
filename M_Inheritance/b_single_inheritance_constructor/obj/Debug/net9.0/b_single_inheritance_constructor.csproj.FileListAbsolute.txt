@@ -1,0 +1,15 @@
+D:\M3VP\M_Inheritance\b_single_inheritance_constructor\bin\Debug\net9.0\b_single_inheritance_constructor.exe
+D:\M3VP\M_Inheritance\b_single_inheritance_constructor\bin\Debug\net9.0\b_single_inheritance_constructor.deps.json
+D:\M3VP\M_Inheritance\b_single_inheritance_constructor\bin\Debug\net9.0\b_single_inheritance_constructor.runtimeconfig.json
+D:\M3VP\M_Inheritance\b_single_inheritance_constructor\bin\Debug\net9.0\b_single_inheritance_constructor.dll
+D:\M3VP\M_Inheritance\b_single_inheritance_constructor\bin\Debug\net9.0\b_single_inheritance_constructor.pdb
+D:\M3VP\M_Inheritance\b_single_inheritance_constructor\obj\Debug\net9.0\b_single_inheritance_constructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\M3VP\M_Inheritance\b_single_inheritance_constructor\obj\Debug\net9.0\b_single_inheritance_constructor.AssemblyInfoInputs.cache
+D:\M3VP\M_Inheritance\b_single_inheritance_constructor\obj\Debug\net9.0\b_single_inheritance_constructor.AssemblyInfo.cs
+D:\M3VP\M_Inheritance\b_single_inheritance_constructor\obj\Debug\net9.0\b_single_inheritance_constructor.csproj.CoreCompileInputs.cache
+D:\M3VP\M_Inheritance\b_single_inheritance_constructor\obj\Debug\net9.0\b_single_inheritance_constructor.sourcelink.json
+D:\M3VP\M_Inheritance\b_single_inheritance_constructor\obj\Debug\net9.0\b_single_inheritance_constructor.dll
+D:\M3VP\M_Inheritance\b_single_inheritance_constructor\obj\Debug\net9.0\refint\b_single_inheritance_constructor.dll
+D:\M3VP\M_Inheritance\b_single_inheritance_constructor\obj\Debug\net9.0\b_single_inheritance_constructor.pdb
+D:\M3VP\M_Inheritance\b_single_inheritance_constructor\obj\Debug\net9.0\b_single_inheritance_constructor.genruntimeconfig.cache
+D:\M3VP\M_Inheritance\b_single_inheritance_constructor\obj\Debug\net9.0\ref\b_single_inheritance_constructor.dll
