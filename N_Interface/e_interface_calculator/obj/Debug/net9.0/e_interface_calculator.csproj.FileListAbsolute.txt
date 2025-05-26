@@ -1,0 +1,15 @@
+D:\M3VP\N_Interface\e_interface_calculator\bin\Debug\net9.0\e_interface_calculator.exe
+D:\M3VP\N_Interface\e_interface_calculator\bin\Debug\net9.0\e_interface_calculator.deps.json
+D:\M3VP\N_Interface\e_interface_calculator\bin\Debug\net9.0\e_interface_calculator.runtimeconfig.json
+D:\M3VP\N_Interface\e_interface_calculator\bin\Debug\net9.0\e_interface_calculator.dll
+D:\M3VP\N_Interface\e_interface_calculator\bin\Debug\net9.0\e_interface_calculator.pdb
+D:\M3VP\N_Interface\e_interface_calculator\obj\Debug\net9.0\e_interface_calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\M3VP\N_Interface\e_interface_calculator\obj\Debug\net9.0\e_interface_calculator.AssemblyInfoInputs.cache
+D:\M3VP\N_Interface\e_interface_calculator\obj\Debug\net9.0\e_interface_calculator.AssemblyInfo.cs
+D:\M3VP\N_Interface\e_interface_calculator\obj\Debug\net9.0\e_interface_calculator.csproj.CoreCompileInputs.cache
+D:\M3VP\N_Interface\e_interface_calculator\obj\Debug\net9.0\e_interface_calculator.sourcelink.json
+D:\M3VP\N_Interface\e_interface_calculator\obj\Debug\net9.0\e_interface_calculator.dll
+D:\M3VP\N_Interface\e_interface_calculator\obj\Debug\net9.0\refint\e_interface_calculator.dll
+D:\M3VP\N_Interface\e_interface_calculator\obj\Debug\net9.0\e_interface_calculator.pdb
+D:\M3VP\N_Interface\e_interface_calculator\obj\Debug\net9.0\e_interface_calculator.genruntimeconfig.cache
+D:\M3VP\N_Interface\e_interface_calculator\obj\Debug\net9.0\ref\e_interface_calculator.dll

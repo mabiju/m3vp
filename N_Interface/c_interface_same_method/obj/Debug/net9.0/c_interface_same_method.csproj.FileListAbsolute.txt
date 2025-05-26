@@ -1,0 +1,15 @@
+D:\M3VP\N_Interface\c_interface_same_method\obj\Debug\net9.0\c_interface_same_method.GeneratedMSBuildEditorConfig.editorconfig
+D:\M3VP\N_Interface\c_interface_same_method\obj\Debug\net9.0\c_interface_same_method.AssemblyInfoInputs.cache
+D:\M3VP\N_Interface\c_interface_same_method\obj\Debug\net9.0\c_interface_same_method.AssemblyInfo.cs
+D:\M3VP\N_Interface\c_interface_same_method\obj\Debug\net9.0\c_interface_same_method.csproj.CoreCompileInputs.cache
+D:\M3VP\N_Interface\c_interface_same_method\obj\Debug\net9.0\c_interface_same_method.sourcelink.json
+D:\M3VP\N_Interface\c_interface_same_method\bin\Debug\net9.0\c_interface_same_method.exe
+D:\M3VP\N_Interface\c_interface_same_method\bin\Debug\net9.0\c_interface_same_method.deps.json
+D:\M3VP\N_Interface\c_interface_same_method\bin\Debug\net9.0\c_interface_same_method.runtimeconfig.json
+D:\M3VP\N_Interface\c_interface_same_method\bin\Debug\net9.0\c_interface_same_method.dll
+D:\M3VP\N_Interface\c_interface_same_method\bin\Debug\net9.0\c_interface_same_method.pdb
+D:\M3VP\N_Interface\c_interface_same_method\obj\Debug\net9.0\c_interface_same_method.dll
+D:\M3VP\N_Interface\c_interface_same_method\obj\Debug\net9.0\refint\c_interface_same_method.dll
+D:\M3VP\N_Interface\c_interface_same_method\obj\Debug\net9.0\c_interface_same_method.pdb
+D:\M3VP\N_Interface\c_interface_same_method\obj\Debug\net9.0\c_interface_same_method.genruntimeconfig.cache
+D:\M3VP\N_Interface\c_interface_same_method\obj\Debug\net9.0\ref\c_interface_same_method.dll
