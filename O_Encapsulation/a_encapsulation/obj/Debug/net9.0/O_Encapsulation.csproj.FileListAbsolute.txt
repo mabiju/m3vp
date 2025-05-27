@@ -1,0 +1,15 @@
+D:\M3VP\O_Encapsulation\bin\Debug\net9.0\O_Encapsulation.exe
+D:\M3VP\O_Encapsulation\bin\Debug\net9.0\O_Encapsulation.deps.json
+D:\M3VP\O_Encapsulation\bin\Debug\net9.0\O_Encapsulation.runtimeconfig.json
+D:\M3VP\O_Encapsulation\bin\Debug\net9.0\O_Encapsulation.dll
+D:\M3VP\O_Encapsulation\bin\Debug\net9.0\O_Encapsulation.pdb
+D:\M3VP\O_Encapsulation\obj\Debug\net9.0\O_Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\M3VP\O_Encapsulation\obj\Debug\net9.0\O_Encapsulation.AssemblyInfoInputs.cache
+D:\M3VP\O_Encapsulation\obj\Debug\net9.0\O_Encapsulation.AssemblyInfo.cs
+D:\M3VP\O_Encapsulation\obj\Debug\net9.0\O_Encapsulation.csproj.CoreCompileInputs.cache
+D:\M3VP\O_Encapsulation\obj\Debug\net9.0\O_Encapsulation.sourcelink.json
+D:\M3VP\O_Encapsulation\obj\Debug\net9.0\O_Encapsulation.dll
+D:\M3VP\O_Encapsulation\obj\Debug\net9.0\refint\O_Encapsulation.dll
+D:\M3VP\O_Encapsulation\obj\Debug\net9.0\O_Encapsulation.pdb
+D:\M3VP\O_Encapsulation\obj\Debug\net9.0\O_Encapsulation.genruntimeconfig.cache
+D:\M3VP\O_Encapsulation\obj\Debug\net9.0\ref\O_Encapsulation.dll
