@@ -1,0 +1,15 @@
+D:\M3VP\Q_Exception\b_exception\bin\Debug\net9.0\b_exception.exe
+D:\M3VP\Q_Exception\b_exception\bin\Debug\net9.0\b_exception.deps.json
+D:\M3VP\Q_Exception\b_exception\bin\Debug\net9.0\b_exception.runtimeconfig.json
+D:\M3VP\Q_Exception\b_exception\bin\Debug\net9.0\b_exception.dll
+D:\M3VP\Q_Exception\b_exception\bin\Debug\net9.0\b_exception.pdb
+D:\M3VP\Q_Exception\b_exception\obj\Debug\net9.0\b_exception.GeneratedMSBuildEditorConfig.editorconfig
+D:\M3VP\Q_Exception\b_exception\obj\Debug\net9.0\b_exception.AssemblyInfoInputs.cache
+D:\M3VP\Q_Exception\b_exception\obj\Debug\net9.0\b_exception.AssemblyInfo.cs
+D:\M3VP\Q_Exception\b_exception\obj\Debug\net9.0\b_exception.csproj.CoreCompileInputs.cache
+D:\M3VP\Q_Exception\b_exception\obj\Debug\net9.0\b_exception.sourcelink.json
+D:\M3VP\Q_Exception\b_exception\obj\Debug\net9.0\b_exception.dll
+D:\M3VP\Q_Exception\b_exception\obj\Debug\net9.0\refint\b_exception.dll
+D:\M3VP\Q_Exception\b_exception\obj\Debug\net9.0\b_exception.pdb
+D:\M3VP\Q_Exception\b_exception\obj\Debug\net9.0\b_exception.genruntimeconfig.cache
+D:\M3VP\Q_Exception\b_exception\obj\Debug\net9.0\ref\b_exception.dll
