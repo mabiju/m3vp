@@ -1,0 +1,15 @@
+D:\M3_VP\E_Type_Conversion\d_explicit\bin\Debug\net10.0\d_explicit.exe
+D:\M3_VP\E_Type_Conversion\d_explicit\bin\Debug\net10.0\d_explicit.deps.json
+D:\M3_VP\E_Type_Conversion\d_explicit\bin\Debug\net10.0\d_explicit.runtimeconfig.json
+D:\M3_VP\E_Type_Conversion\d_explicit\bin\Debug\net10.0\d_explicit.dll
+D:\M3_VP\E_Type_Conversion\d_explicit\bin\Debug\net10.0\d_explicit.pdb
+D:\M3_VP\E_Type_Conversion\d_explicit\obj\Debug\net10.0\d_explicit.GeneratedMSBuildEditorConfig.editorconfig
+D:\M3_VP\E_Type_Conversion\d_explicit\obj\Debug\net10.0\d_explicit.AssemblyInfoInputs.cache
+D:\M3_VP\E_Type_Conversion\d_explicit\obj\Debug\net10.0\d_explicit.AssemblyInfo.cs
+D:\M3_VP\E_Type_Conversion\d_explicit\obj\Debug\net10.0\d_explicit.csproj.CoreCompileInputs.cache
+D:\M3_VP\E_Type_Conversion\d_explicit\obj\Debug\net10.0\d_explicit.sourcelink.json
+D:\M3_VP\E_Type_Conversion\d_explicit\obj\Debug\net10.0\d_explicit.dll
+D:\M3_VP\E_Type_Conversion\d_explicit\obj\Debug\net10.0\refint\d_explicit.dll
+D:\M3_VP\E_Type_Conversion\d_explicit\obj\Debug\net10.0\d_explicit.pdb
+D:\M3_VP\E_Type_Conversion\d_explicit\obj\Debug\net10.0\d_explicit.genruntimeconfig.cache
+D:\M3_VP\E_Type_Conversion\d_explicit\obj\Debug\net10.0\ref\d_explicit.dll

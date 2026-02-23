@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JdnBIFjCw4U=",
+  "dgSpecHash": "mx3oMNQ0PtA=",
   "success": true,
   "projectFilePath": "D:\\M3_VP\\D_Control_Statements\\c_if_elseif_ladder_division\\c_if_elseif_ladder_division.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Vijaya Malla\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.13\\microsoft.netcore.app.ref.9.0.13.nupkg.sha512",
-    "C:\\Users\\Vijaya Malla\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.13\\microsoft.windowsdesktop.app.ref.9.0.13.nupkg.sha512",
-    "C:\\Users\\Vijaya Malla\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.13\\microsoft.aspnetcore.app.ref.9.0.13.nupkg.sha512",
-    "C:\\Users\\Vijaya Malla\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.13\\microsoft.netcore.app.host.win-x64.9.0.13.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZMWEjqdAFq8=",
+  "dgSpecHash": "zm78VIQX10c=",
   "success": true,
   "projectFilePath": "D:\\M3_VP\\C_Data_Types\\f_reference_type_object\\f_reference_type_object.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Vijaya Malla\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.13\\microsoft.netcore.app.ref.9.0.13.nupkg.sha512",
-    "C:\\Users\\Vijaya Malla\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.13\\microsoft.windowsdesktop.app.ref.9.0.13.nupkg.sha512",
-    "C:\\Users\\Vijaya Malla\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.13\\microsoft.aspnetcore.app.ref.9.0.13.nupkg.sha512",
-    "C:\\Users\\Vijaya Malla\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.13\\microsoft.netcore.app.host.win-x64.9.0.13.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

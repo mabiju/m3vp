@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("e_switch_integer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1522d1bd9ee408ef7658380bc8c5a21fafca149f")]
 [assembly: System.Reflection.AssemblyProductAttribute("e_switch_integer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("e_switch_integer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
