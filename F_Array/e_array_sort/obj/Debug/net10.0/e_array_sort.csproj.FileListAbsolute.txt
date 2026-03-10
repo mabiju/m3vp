@@ -1,0 +1,15 @@
+D:\M3_VP\F_Array\e_array_sort\bin\Debug\net10.0\e_array_sort.exe
+D:\M3_VP\F_Array\e_array_sort\bin\Debug\net10.0\e_array_sort.deps.json
+D:\M3_VP\F_Array\e_array_sort\bin\Debug\net10.0\e_array_sort.runtimeconfig.json
+D:\M3_VP\F_Array\e_array_sort\bin\Debug\net10.0\e_array_sort.dll
+D:\M3_VP\F_Array\e_array_sort\bin\Debug\net10.0\e_array_sort.pdb
+D:\M3_VP\F_Array\e_array_sort\obj\Debug\net10.0\e_array_sort.GeneratedMSBuildEditorConfig.editorconfig
+D:\M3_VP\F_Array\e_array_sort\obj\Debug\net10.0\e_array_sort.AssemblyInfoInputs.cache
+D:\M3_VP\F_Array\e_array_sort\obj\Debug\net10.0\e_array_sort.AssemblyInfo.cs
+D:\M3_VP\F_Array\e_array_sort\obj\Debug\net10.0\e_array_sort.csproj.CoreCompileInputs.cache
+D:\M3_VP\F_Array\e_array_sort\obj\Debug\net10.0\e_array_sort.sourcelink.json
+D:\M3_VP\F_Array\e_array_sort\obj\Debug\net10.0\e_array_sort.dll
+D:\M3_VP\F_Array\e_array_sort\obj\Debug\net10.0\refint\e_array_sort.dll
+D:\M3_VP\F_Array\e_array_sort\obj\Debug\net10.0\e_array_sort.pdb
+D:\M3_VP\F_Array\e_array_sort\obj\Debug\net10.0\e_array_sort.genruntimeconfig.cache
+D:\M3_VP\F_Array\e_array_sort\obj\Debug\net10.0\ref\e_array_sort.dll

@@ -1,0 +1,15 @@
+D:\M3_VP\F_Array\i_array_multidimensional_jagged\bin\Debug\net10.0\i_array_multidimensional_jagged.exe
+D:\M3_VP\F_Array\i_array_multidimensional_jagged\bin\Debug\net10.0\i_array_multidimensional_jagged.deps.json
+D:\M3_VP\F_Array\i_array_multidimensional_jagged\bin\Debug\net10.0\i_array_multidimensional_jagged.runtimeconfig.json
+D:\M3_VP\F_Array\i_array_multidimensional_jagged\bin\Debug\net10.0\i_array_multidimensional_jagged.dll
+D:\M3_VP\F_Array\i_array_multidimensional_jagged\bin\Debug\net10.0\i_array_multidimensional_jagged.pdb
+D:\M3_VP\F_Array\i_array_multidimensional_jagged\obj\Debug\net10.0\i_array_multidimensional_jagged.GeneratedMSBuildEditorConfig.editorconfig
+D:\M3_VP\F_Array\i_array_multidimensional_jagged\obj\Debug\net10.0\i_array_multidimensional_jagged.AssemblyInfoInputs.cache
+D:\M3_VP\F_Array\i_array_multidimensional_jagged\obj\Debug\net10.0\i_array_multidimensional_jagged.AssemblyInfo.cs
+D:\M3_VP\F_Array\i_array_multidimensional_jagged\obj\Debug\net10.0\i_array_multidimensional_jagged.csproj.CoreCompileInputs.cache
+D:\M3_VP\F_Array\i_array_multidimensional_jagged\obj\Debug\net10.0\i_array_multidimensional_jagged.sourcelink.json
+D:\M3_VP\F_Array\i_array_multidimensional_jagged\obj\Debug\net10.0\i_array_multidimensional_jagged.dll
+D:\M3_VP\F_Array\i_array_multidimensional_jagged\obj\Debug\net10.0\refint\i_array_multidimensional_jagged.dll
+D:\M3_VP\F_Array\i_array_multidimensional_jagged\obj\Debug\net10.0\i_array_multidimensional_jagged.pdb
+D:\M3_VP\F_Array\i_array_multidimensional_jagged\obj\Debug\net10.0\i_array_multidimensional_jagged.genruntimeconfig.cache
+D:\M3_VP\F_Array\i_array_multidimensional_jagged\obj\Debug\net10.0\ref\i_array_multidimensional_jagged.dll

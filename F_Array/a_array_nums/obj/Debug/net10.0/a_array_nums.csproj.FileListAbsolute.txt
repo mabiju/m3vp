@@ -1,0 +1,15 @@
+D:\M3_VP\F_Array\a_array_nums\bin\Debug\net10.0\a_array_nums.exe
+D:\M3_VP\F_Array\a_array_nums\bin\Debug\net10.0\a_array_nums.deps.json
+D:\M3_VP\F_Array\a_array_nums\bin\Debug\net10.0\a_array_nums.runtimeconfig.json
+D:\M3_VP\F_Array\a_array_nums\bin\Debug\net10.0\a_array_nums.dll
+D:\M3_VP\F_Array\a_array_nums\bin\Debug\net10.0\a_array_nums.pdb
+D:\M3_VP\F_Array\a_array_nums\obj\Debug\net10.0\a_array_nums.GeneratedMSBuildEditorConfig.editorconfig
+D:\M3_VP\F_Array\a_array_nums\obj\Debug\net10.0\a_array_nums.AssemblyInfoInputs.cache
+D:\M3_VP\F_Array\a_array_nums\obj\Debug\net10.0\a_array_nums.AssemblyInfo.cs
+D:\M3_VP\F_Array\a_array_nums\obj\Debug\net10.0\a_array_nums.csproj.CoreCompileInputs.cache
+D:\M3_VP\F_Array\a_array_nums\obj\Debug\net10.0\a_array_nums.sourcelink.json
+D:\M3_VP\F_Array\a_array_nums\obj\Debug\net10.0\a_array_nums.dll
+D:\M3_VP\F_Array\a_array_nums\obj\Debug\net10.0\refint\a_array_nums.dll
+D:\M3_VP\F_Array\a_array_nums\obj\Debug\net10.0\a_array_nums.pdb
+D:\M3_VP\F_Array\a_array_nums\obj\Debug\net10.0\a_array_nums.genruntimeconfig.cache
+D:\M3_VP\F_Array\a_array_nums\obj\Debug\net10.0\ref\a_array_nums.dll
