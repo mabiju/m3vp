@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("g_multiplication_table_upto_user_input")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f9bd6f3f51f50662d516afca35a60c1c7a1f306")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7454d2148f3fbeabc2c9be3fadcc461e9b07247f")]
 [assembly: System.Reflection.AssemblyProductAttribute("g_multiplication_table_upto_user_input")]
 [assembly: System.Reflection.AssemblyTitleAttribute("g_multiplication_table_upto_user_input")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

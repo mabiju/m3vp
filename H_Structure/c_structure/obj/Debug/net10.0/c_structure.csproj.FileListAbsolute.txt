@@ -1,0 +1,15 @@
+D:\M3_VP\H_Structure\c_structure\bin\Debug\net10.0\c_structure.exe
+D:\M3_VP\H_Structure\c_structure\bin\Debug\net10.0\c_structure.deps.json
+D:\M3_VP\H_Structure\c_structure\bin\Debug\net10.0\c_structure.runtimeconfig.json
+D:\M3_VP\H_Structure\c_structure\bin\Debug\net10.0\c_structure.dll
+D:\M3_VP\H_Structure\c_structure\bin\Debug\net10.0\c_structure.pdb
+D:\M3_VP\H_Structure\c_structure\obj\Debug\net10.0\c_structure.GeneratedMSBuildEditorConfig.editorconfig
+D:\M3_VP\H_Structure\c_structure\obj\Debug\net10.0\c_structure.AssemblyInfoInputs.cache
+D:\M3_VP\H_Structure\c_structure\obj\Debug\net10.0\c_structure.AssemblyInfo.cs
+D:\M3_VP\H_Structure\c_structure\obj\Debug\net10.0\c_structure.csproj.CoreCompileInputs.cache
+D:\M3_VP\H_Structure\c_structure\obj\Debug\net10.0\c_structure.sourcelink.json
+D:\M3_VP\H_Structure\c_structure\obj\Debug\net10.0\c_structure.dll
+D:\M3_VP\H_Structure\c_structure\obj\Debug\net10.0\refint\c_structure.dll
+D:\M3_VP\H_Structure\c_structure\obj\Debug\net10.0\c_structure.pdb
+D:\M3_VP\H_Structure\c_structure\obj\Debug\net10.0\c_structure.genruntimeconfig.cache
+D:\M3_VP\H_Structure\c_structure\obj\Debug\net10.0\ref\c_structure.dll
