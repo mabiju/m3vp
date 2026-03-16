@@ -1,0 +1,15 @@
+D:\M3VP\I_Strings\o_string_contains\bin\Debug\net9.0\o_string_contains.exe
+D:\M3VP\I_Strings\o_string_contains\bin\Debug\net9.0\o_string_contains.deps.json
+D:\M3VP\I_Strings\o_string_contains\bin\Debug\net9.0\o_string_contains.runtimeconfig.json
+D:\M3VP\I_Strings\o_string_contains\bin\Debug\net9.0\o_string_contains.dll
+D:\M3VP\I_Strings\o_string_contains\bin\Debug\net9.0\o_string_contains.pdb
+D:\M3VP\I_Strings\o_string_contains\obj\Debug\net9.0\o_string_contains.GeneratedMSBuildEditorConfig.editorconfig
+D:\M3VP\I_Strings\o_string_contains\obj\Debug\net9.0\o_string_contains.AssemblyInfoInputs.cache
+D:\M3VP\I_Strings\o_string_contains\obj\Debug\net9.0\o_string_contains.AssemblyInfo.cs
+D:\M3VP\I_Strings\o_string_contains\obj\Debug\net9.0\o_string_contains.csproj.CoreCompileInputs.cache
+D:\M3VP\I_Strings\o_string_contains\obj\Debug\net9.0\o_string_contains.sourcelink.json
+D:\M3VP\I_Strings\o_string_contains\obj\Debug\net9.0\o_string_contains.dll
+D:\M3VP\I_Strings\o_string_contains\obj\Debug\net9.0\refint\o_string_contains.dll
+D:\M3VP\I_Strings\o_string_contains\obj\Debug\net9.0\o_string_contains.pdb
+D:\M3VP\I_Strings\o_string_contains\obj\Debug\net9.0\o_string_contains.genruntimeconfig.cache
+D:\M3VP\I_Strings\o_string_contains\obj\Debug\net9.0\ref\o_string_contains.dll
