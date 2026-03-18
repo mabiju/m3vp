@@ -1,0 +1,15 @@
+D:\M3_VP\J_Regular_Expression\g_regex\bin\Debug\net10.0\g_regex.exe
+D:\M3_VP\J_Regular_Expression\g_regex\bin\Debug\net10.0\g_regex.deps.json
+D:\M3_VP\J_Regular_Expression\g_regex\bin\Debug\net10.0\g_regex.runtimeconfig.json
+D:\M3_VP\J_Regular_Expression\g_regex\bin\Debug\net10.0\g_regex.dll
+D:\M3_VP\J_Regular_Expression\g_regex\bin\Debug\net10.0\g_regex.pdb
+D:\M3_VP\J_Regular_Expression\g_regex\obj\Debug\net10.0\g_regex.GeneratedMSBuildEditorConfig.editorconfig
+D:\M3_VP\J_Regular_Expression\g_regex\obj\Debug\net10.0\g_regex.AssemblyInfoInputs.cache
+D:\M3_VP\J_Regular_Expression\g_regex\obj\Debug\net10.0\g_regex.AssemblyInfo.cs
+D:\M3_VP\J_Regular_Expression\g_regex\obj\Debug\net10.0\g_regex.csproj.CoreCompileInputs.cache
+D:\M3_VP\J_Regular_Expression\g_regex\obj\Debug\net10.0\g_regex.sourcelink.json
+D:\M3_VP\J_Regular_Expression\g_regex\obj\Debug\net10.0\g_regex.dll
+D:\M3_VP\J_Regular_Expression\g_regex\obj\Debug\net10.0\refint\g_regex.dll
+D:\M3_VP\J_Regular_Expression\g_regex\obj\Debug\net10.0\g_regex.pdb
+D:\M3_VP\J_Regular_Expression\g_regex\obj\Debug\net10.0\g_regex.genruntimeconfig.cache
+D:\M3_VP\J_Regular_Expression\g_regex\obj\Debug\net10.0\ref\g_regex.dll
