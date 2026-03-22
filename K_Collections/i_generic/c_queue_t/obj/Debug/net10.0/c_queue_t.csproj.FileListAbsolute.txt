@@ -1,0 +1,15 @@
+D:\M3_VP\K_Collections\i_generic\c_queue_t\bin\Debug\net10.0\c_queue_t.exe
+D:\M3_VP\K_Collections\i_generic\c_queue_t\bin\Debug\net10.0\c_queue_t.deps.json
+D:\M3_VP\K_Collections\i_generic\c_queue_t\bin\Debug\net10.0\c_queue_t.runtimeconfig.json
+D:\M3_VP\K_Collections\i_generic\c_queue_t\bin\Debug\net10.0\c_queue_t.dll
+D:\M3_VP\K_Collections\i_generic\c_queue_t\bin\Debug\net10.0\c_queue_t.pdb
+D:\M3_VP\K_Collections\i_generic\c_queue_t\obj\Debug\net10.0\c_queue_t.GeneratedMSBuildEditorConfig.editorconfig
+D:\M3_VP\K_Collections\i_generic\c_queue_t\obj\Debug\net10.0\c_queue_t.AssemblyInfoInputs.cache
+D:\M3_VP\K_Collections\i_generic\c_queue_t\obj\Debug\net10.0\c_queue_t.AssemblyInfo.cs
+D:\M3_VP\K_Collections\i_generic\c_queue_t\obj\Debug\net10.0\c_queue_t.csproj.CoreCompileInputs.cache
+D:\M3_VP\K_Collections\i_generic\c_queue_t\obj\Debug\net10.0\c_queue_t.sourcelink.json
+D:\M3_VP\K_Collections\i_generic\c_queue_t\obj\Debug\net10.0\c_queue_t.dll
+D:\M3_VP\K_Collections\i_generic\c_queue_t\obj\Debug\net10.0\refint\c_queue_t.dll
+D:\M3_VP\K_Collections\i_generic\c_queue_t\obj\Debug\net10.0\c_queue_t.pdb
+D:\M3_VP\K_Collections\i_generic\c_queue_t\obj\Debug\net10.0\c_queue_t.genruntimeconfig.cache
+D:\M3_VP\K_Collections\i_generic\c_queue_t\obj\Debug\net10.0\ref\c_queue_t.dll

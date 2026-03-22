@@ -1,0 +1,15 @@
+D:\M3_VP\K_Collections\i_generic\b_list_t_student_details\bin\Debug\net10.0\b_list_t_student_details.exe
+D:\M3_VP\K_Collections\i_generic\b_list_t_student_details\bin\Debug\net10.0\b_list_t_student_details.deps.json
+D:\M3_VP\K_Collections\i_generic\b_list_t_student_details\bin\Debug\net10.0\b_list_t_student_details.runtimeconfig.json
+D:\M3_VP\K_Collections\i_generic\b_list_t_student_details\bin\Debug\net10.0\b_list_t_student_details.dll
+D:\M3_VP\K_Collections\i_generic\b_list_t_student_details\bin\Debug\net10.0\b_list_t_student_details.pdb
+D:\M3_VP\K_Collections\i_generic\b_list_t_student_details\obj\Debug\net10.0\b_list_t_student_details.GeneratedMSBuildEditorConfig.editorconfig
+D:\M3_VP\K_Collections\i_generic\b_list_t_student_details\obj\Debug\net10.0\b_list_t_student_details.AssemblyInfoInputs.cache
+D:\M3_VP\K_Collections\i_generic\b_list_t_student_details\obj\Debug\net10.0\b_list_t_student_details.AssemblyInfo.cs
+D:\M3_VP\K_Collections\i_generic\b_list_t_student_details\obj\Debug\net10.0\b_list_t_student_details.csproj.CoreCompileInputs.cache
+D:\M3_VP\K_Collections\i_generic\b_list_t_student_details\obj\Debug\net10.0\b_list_t_student_details.sourcelink.json
+D:\M3_VP\K_Collections\i_generic\b_list_t_student_details\obj\Debug\net10.0\b_list_t_student_details.dll
+D:\M3_VP\K_Collections\i_generic\b_list_t_student_details\obj\Debug\net10.0\refint\b_list_t_student_details.dll
+D:\M3_VP\K_Collections\i_generic\b_list_t_student_details\obj\Debug\net10.0\b_list_t_student_details.pdb
+D:\M3_VP\K_Collections\i_generic\b_list_t_student_details\obj\Debug\net10.0\b_list_t_student_details.genruntimeconfig.cache
+D:\M3_VP\K_Collections\i_generic\b_list_t_student_details\obj\Debug\net10.0\ref\b_list_t_student_details.dll
