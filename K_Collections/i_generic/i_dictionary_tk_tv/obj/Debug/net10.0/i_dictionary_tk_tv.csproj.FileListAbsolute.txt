@@ -1,0 +1,15 @@
+D:\M3_VP\K_Collections\i_generic\i_dictionary_tk_tv\bin\Debug\net10.0\i_dictionary_tk_tv.exe
+D:\M3_VP\K_Collections\i_generic\i_dictionary_tk_tv\bin\Debug\net10.0\i_dictionary_tk_tv.deps.json
+D:\M3_VP\K_Collections\i_generic\i_dictionary_tk_tv\bin\Debug\net10.0\i_dictionary_tk_tv.runtimeconfig.json
+D:\M3_VP\K_Collections\i_generic\i_dictionary_tk_tv\bin\Debug\net10.0\i_dictionary_tk_tv.dll
+D:\M3_VP\K_Collections\i_generic\i_dictionary_tk_tv\bin\Debug\net10.0\i_dictionary_tk_tv.pdb
+D:\M3_VP\K_Collections\i_generic\i_dictionary_tk_tv\obj\Debug\net10.0\i_dictionary_tk_tv.GeneratedMSBuildEditorConfig.editorconfig
+D:\M3_VP\K_Collections\i_generic\i_dictionary_tk_tv\obj\Debug\net10.0\i_dictionary_tk_tv.AssemblyInfoInputs.cache
+D:\M3_VP\K_Collections\i_generic\i_dictionary_tk_tv\obj\Debug\net10.0\i_dictionary_tk_tv.AssemblyInfo.cs
+D:\M3_VP\K_Collections\i_generic\i_dictionary_tk_tv\obj\Debug\net10.0\i_dictionary_tk_tv.csproj.CoreCompileInputs.cache
+D:\M3_VP\K_Collections\i_generic\i_dictionary_tk_tv\obj\Debug\net10.0\i_dictionary_tk_tv.sourcelink.json
+D:\M3_VP\K_Collections\i_generic\i_dictionary_tk_tv\obj\Debug\net10.0\i_dictionary_tk_tv.dll
+D:\M3_VP\K_Collections\i_generic\i_dictionary_tk_tv\obj\Debug\net10.0\refint\i_dictionary_tk_tv.dll
+D:\M3_VP\K_Collections\i_generic\i_dictionary_tk_tv\obj\Debug\net10.0\i_dictionary_tk_tv.pdb
+D:\M3_VP\K_Collections\i_generic\i_dictionary_tk_tv\obj\Debug\net10.0\i_dictionary_tk_tv.genruntimeconfig.cache
+D:\M3_VP\K_Collections\i_generic\i_dictionary_tk_tv\obj\Debug\net10.0\ref\i_dictionary_tk_tv.dll

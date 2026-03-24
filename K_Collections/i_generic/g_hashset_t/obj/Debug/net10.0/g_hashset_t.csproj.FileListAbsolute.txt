@@ -1,0 +1,15 @@
+D:\M3_VP\K_Collections\i_generic\g_hashset_t\bin\Debug\net10.0\g_hashset_t.exe
+D:\M3_VP\K_Collections\i_generic\g_hashset_t\bin\Debug\net10.0\g_hashset_t.deps.json
+D:\M3_VP\K_Collections\i_generic\g_hashset_t\bin\Debug\net10.0\g_hashset_t.runtimeconfig.json
+D:\M3_VP\K_Collections\i_generic\g_hashset_t\bin\Debug\net10.0\g_hashset_t.dll
+D:\M3_VP\K_Collections\i_generic\g_hashset_t\bin\Debug\net10.0\g_hashset_t.pdb
+D:\M3_VP\K_Collections\i_generic\g_hashset_t\obj\Debug\net10.0\g_hashset_t.GeneratedMSBuildEditorConfig.editorconfig
+D:\M3_VP\K_Collections\i_generic\g_hashset_t\obj\Debug\net10.0\g_hashset_t.AssemblyInfoInputs.cache
+D:\M3_VP\K_Collections\i_generic\g_hashset_t\obj\Debug\net10.0\g_hashset_t.AssemblyInfo.cs
+D:\M3_VP\K_Collections\i_generic\g_hashset_t\obj\Debug\net10.0\g_hashset_t.csproj.CoreCompileInputs.cache
+D:\M3_VP\K_Collections\i_generic\g_hashset_t\obj\Debug\net10.0\g_hashset_t.sourcelink.json
+D:\M3_VP\K_Collections\i_generic\g_hashset_t\obj\Debug\net10.0\g_hashset_t.dll
+D:\M3_VP\K_Collections\i_generic\g_hashset_t\obj\Debug\net10.0\refint\g_hashset_t.dll
+D:\M3_VP\K_Collections\i_generic\g_hashset_t\obj\Debug\net10.0\g_hashset_t.pdb
+D:\M3_VP\K_Collections\i_generic\g_hashset_t\obj\Debug\net10.0\g_hashset_t.genruntimeconfig.cache
+D:\M3_VP\K_Collections\i_generic\g_hashset_t\obj\Debug\net10.0\ref\g_hashset_t.dll

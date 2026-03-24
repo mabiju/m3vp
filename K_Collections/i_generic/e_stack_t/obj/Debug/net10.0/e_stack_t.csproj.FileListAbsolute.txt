@@ -1,0 +1,15 @@
+D:\M3_VP\K_Collections\i_generic\e_stack_t\bin\Debug\net10.0\e_stack_t.exe
+D:\M3_VP\K_Collections\i_generic\e_stack_t\bin\Debug\net10.0\e_stack_t.deps.json
+D:\M3_VP\K_Collections\i_generic\e_stack_t\bin\Debug\net10.0\e_stack_t.runtimeconfig.json
+D:\M3_VP\K_Collections\i_generic\e_stack_t\bin\Debug\net10.0\e_stack_t.dll
+D:\M3_VP\K_Collections\i_generic\e_stack_t\bin\Debug\net10.0\e_stack_t.pdb
+D:\M3_VP\K_Collections\i_generic\e_stack_t\obj\Debug\net10.0\e_stack_t.GeneratedMSBuildEditorConfig.editorconfig
+D:\M3_VP\K_Collections\i_generic\e_stack_t\obj\Debug\net10.0\e_stack_t.AssemblyInfoInputs.cache
+D:\M3_VP\K_Collections\i_generic\e_stack_t\obj\Debug\net10.0\e_stack_t.AssemblyInfo.cs
+D:\M3_VP\K_Collections\i_generic\e_stack_t\obj\Debug\net10.0\e_stack_t.csproj.CoreCompileInputs.cache
+D:\M3_VP\K_Collections\i_generic\e_stack_t\obj\Debug\net10.0\e_stack_t.sourcelink.json
+D:\M3_VP\K_Collections\i_generic\e_stack_t\obj\Debug\net10.0\e_stack_t.dll
+D:\M3_VP\K_Collections\i_generic\e_stack_t\obj\Debug\net10.0\refint\e_stack_t.dll
+D:\M3_VP\K_Collections\i_generic\e_stack_t\obj\Debug\net10.0\e_stack_t.pdb
+D:\M3_VP\K_Collections\i_generic\e_stack_t\obj\Debug\net10.0\e_stack_t.genruntimeconfig.cache
+D:\M3_VP\K_Collections\i_generic\e_stack_t\obj\Debug\net10.0\ref\e_stack_t.dll
